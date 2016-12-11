@@ -10,12 +10,12 @@ import components.simplewriter.SimpleWriter1L;
  *
  * @author Ivan Stoychev
  */
-public final class GameOfLifeV420XX360NOSCOPE {
+public final class GameOfLifeV2 {
 
     /**
      * Default constructor--private to prevent instantiation.
      */
-    private GameOfLifeV420XX360NOSCOPE() {
+    private GameOfLifeV2() {
         // no code needed here
     }
 
